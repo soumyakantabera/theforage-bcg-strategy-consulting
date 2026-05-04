@@ -1,10 +1,18 @@
 # BCG Strategy Consulting Virtual Experience — BeyondTech Installment Financing
 
+<p>
+  <img src="https://img.shields.io/badge/Program-BCG%20Strategy%20Consulting-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Platform-The%20Forage-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
+</p>
+
+---
+
 > **Portfolio Note**: This is an educational simulation of a full BCG-style strategy engagement for a fictional company, **BeyondTech**. All data, financials, survey responses, and stakeholder profiles are synthetic or provided by The Forage exercise. This project is a technical demonstration for portfolio purposes and does not represent a real client engagement, production system, or live recommendation.
 
 ---
 
-## Table of Contents
+## 📋 Table of Contents
 
 1. [Project Overview](#project-overview)
 2. [Executive Summary & Final Recommendation](#executive-summary--final-recommendation)
